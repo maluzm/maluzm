@@ -1,6 +1,6 @@
 # Olá! 👋 Sou a Malu ✨
 
-Estudante de Engenharia da Computação na FAMETRO(7º Periodo).🐍 Explorando o mundo da programação, atualmente com foco em Python. Interessada em desenvolvimento web e aplicação da lógica de programação para solucionar desafios. Veja minhas estatísticas de desenvolvimento abaixo!
+Computer Engineering student at FAMETRO (7th Semester). 🐍 Exploring the world of programming, currently focused on Python. Passionate about web development and using logic to solve real-world problems. Check out my development stats below!
 
 - 👋 Hi, I’m Malu Monteiro
 - 👀 I’m interested in progaming
@@ -10,16 +10,22 @@ Estudante de Engenharia da Computação na FAMETRO(7º Periodo).🐍 Explorando 
 
 ### Minhas Habilidades 🚀
 
-* **Linguagens de Programação:** Python, C, VBA
-* **Automação & Dados:** Power Automate, Excel, Power BI, Análise de Dados (Python)
-* **Ferramentas:** Git, GitHub, VS Code
-* **Design:** Canva (UX/UI básico), interesse em Photoshop
-* **Resolução de Problemas:** LeetCode, Lógica de Programação
-* **Idiomas:** Português (Nativo), Inglês (Avançado)
-* **Soft Skills:** Proatividade, Aprendizado Contínuo, Resolução de Problemas, Pensamento Analítico
+* **Programming Languages: Python, C, VBA
+
+* **Automation & Data: Power Automate, Excel, Power BI, Data Analysis (Python)
+
+* **Tools: Git, GitHub, VS Code
+
+* **Design: Canva (basic UX/UI), exploring Photoshop
+
+* **Problem Solving: LeetCode, Logic and Algorithm Challenges
+
+* **Languages: Portuguese (Native), English (Advanced)
+
+* **Soft Skills: Proactivity, Continuous Learning, Problem Solving, Analytical Thinking
 
 ---
-## Linguagens - Ferramentas
+## Languages & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -35,8 +41,8 @@ Estudante de Engenharia da Computação na FAMETRO(7º Periodo).🐍 Explorando 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maluzm&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-## Repositorios de Desafios
-
+## Challenge Repositories
+(Coming soon – feel free to follow and check back!)
 
 ---
 ## Social
@@ -47,16 +53,16 @@ Estudante de Engenharia da Computação na FAMETRO(7º Periodo).🐍 Explorando 
 
 ### O Que Estou Aprendendo Atualmente 📚💡
 
-* Aprofundando em **Python** (especialmente para dados e web - Django/Flask)
-* Iniciando estudos em **Front-End** (HTML, CSS, JavaScript)
-* **Photoshop** para aprimorar minhas habilidades de design
-* Desafios de **LeetCode** avançados
+* Deepening my Python skills (especially for data and web – Django/Flask)
+* Starting in Front-End development (HTML, CSS, JavaScript)
+* Learning **Photoshop** for better design and UI capabilities
+* Tackling LeetCode challenges
 
 ---
 
-### Vamos Colaborar! 🤝
+### Let’s Collaborate! 🤝
 
-Estou sempre aberta a novas conexões, aprendizado e oportunidades de colaboração em projetos. Sinta-se à vontade para me contatar!
+Open to internship opportunities, collaborative projects, and creative coding challenges! Feel free to reach out.
 
 <!---
 maluzm/maluzm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
