@@ -10,19 +10,19 @@ Computer Engineering student at FAMETRO (7th Semester). 🐍 Exploring the world
 
 ### Minhas Habilidades 🚀
 
-* **Programming Languages: Python, C, VBA
+* **Programming Languages: Python, C, VBA**
 
-* **Automation & Data: Power Automate, Excel, Power BI, Data Analysis (Python)
+* **Automation & Data: Power Automate, Power Apps, Excel, Power BI, Data Analysis (Python)**
 
-* **Tools: Git, GitHub, VS Code
+* **Tools: Git, GitHub, VS Code, SharePoint**
 
-* **Design: Canva (basic UX/UI), exploring Photoshop
+* **Design: Canva (basic UX/UI), exploring Photoshop**
 
-* **Problem Solving: LeetCode, Logic and Algorithm Challenges
+* **Problem Solving: LeetCode, Logic and Algorithm Challenges**
 
-* **Languages: Portuguese (Native), English (Advanced)
+* **Languages: Portuguese (Native), English (Advanced)**
 
-* **Soft Skills: Proactivity, Continuous Learning, Problem Solving, Analytical Thinking
+* **Soft Skills: Proactivity, Continuous Learning, Problem Solving, Analytical Thinking**
 
 ---
 ## Languages & Tools
